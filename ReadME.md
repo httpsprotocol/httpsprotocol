@@ -1,7 +1,7 @@
 ## [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! Im @httpsprotocol / @gutbath
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Amateur Dev Learning Python, Java, and C++ and pushing free projects out on my journey to becoming a coding profesional!
-------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================
 * 👾 I make clients for games. (Cheats, Unlockers, Etc.)
 * 🤑 I also make custom applications and do bountys, send me a dm on discord!
 ------------------------------------------------------------------------------
@@ -18,4 +18,5 @@ Amateur Dev Learning Python, Java, and C++ and pushing free projects out on my j
     
 
 ### Socials 
-<p align="left"> <a href="https://t.me/gutbath" target="_blank" rel="noreferrer"><img src="![image](https://github.com/httpsprotocol/httpsprotocol/assets/132117879/a58f564e-f712-4ef9-b936-4c3bff9d0950)"/></a></p>
+<p align="left"> <a href="https://t.me/gutbath" target="_blank" rel="noreferrer"><img src="![image](https://github.com/httpsprotocol/httpsprotocol/assets/132117879/82aeb67e-6293-408b-9f5c-668a3ee32ed0)
+" width="50" height="50" /></a></p>
