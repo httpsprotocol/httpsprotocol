@@ -17,7 +17,6 @@ Amateur Dev Learning Python, Java, and C++ and pushing free projects out on my j
     
 
 ### Socials 
-* https://t.me/paperwavee
 * https://t.me/gutbath
 * gut#9978
-* tiktok - gutbth | paperwavee
+* tiktok - gutbth
