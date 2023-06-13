@@ -1,5 +1,5 @@
 ## 😉 Hello! Im @httpsprotocol / @gutbath
-Amateur Dev Learning Python, Java, and C++ | i enjoy making free projects on my journey to becoming a coding profesional!
+Amateur Dev Learning Python, Java, and C++ | I enjoy making free projects on my journey to becoming a coding profesional!
 ========================================================================================================================
 * 👾 I make clients for games. (Cheats, Unlockers, Etc.)
 * 🤑 I also make custom applications and do bountys, send me a dm on discord!
