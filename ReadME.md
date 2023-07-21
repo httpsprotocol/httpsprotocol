@@ -2,7 +2,7 @@
 Amateur Dev Learning Python, Java, and C++ | I enjoy making free projects on my journey to becoming a coding profesional!
 ========================================================================================================================
 * 👾 I mostly make clients for games. 
-* 🤑 I also make custom applications and do bountys, send me a dm on discord! (Socials)
+* 🤑 I also make custom applications and do bountys
 
 ### Languages (code)
 
